@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/jrounsav/unity-demo/issues"
+  },
+  "dependencies": {
+    "slice": "^1.1.0"
   }
 }
